@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      student
 HostName                       localhost
-ProcessIdentifier              3275
-ProcessCreationTime_UTC        1733278826
-ProcessCreationTime_Readable   Wed Dec  4 10:20:26 2024 CST
+ProcessIdentifier              3273
+ProcessCreationTime_UTC        1733821331
+ProcessCreationTime_Readable   Tue Dec 10 17:02:11 2024 CST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/student/Desktop/Workspace/EE113_proj/XOR/schematic/sch.oa.cdslck
-TimeEditLocked                 Wed Dec  4 11:23:49 2024 CST
+FilePathUsedToEditLock         /home/student/Desktop/Workspace/EE113_proj/XOR/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Tue Dec 10 17:25:56 2024 CST

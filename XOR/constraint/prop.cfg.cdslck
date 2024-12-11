@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      student
 HostName                       localhost
-ProcessIdentifier              3332
-ProcessCreationTime_UTC        1733583248
-ProcessCreationTime_Readable   Sat Dec  7 22:54:08 2024 CST
+ProcessIdentifier              3197
+ProcessCreationTime_UTC        1733667470
+ProcessCreationTime_Readable   Sun Dec  8 22:17:50 2024 CST
 AppIdentifier                  /usr/cadence/IC615/tools.lnx86/dfII/bin/32bit/virtuoso
 OSType                         lnx86
 ReasonForPlacingEditLock       
-FilePathUsedToEditLock         /home/student/Desktop/Workspace/EE113_proj/4bit_ripple_carry_adder/constraint/prop.cfg
-TimeEditLocked                 Sat Dec  7 23:03:35 2024 CST
+FilePathUsedToEditLock         /home/student/Desktop/Workspace/EE113_proj/XOR/constraint/prop.cfg
+TimeEditLocked                 Sun Dec  8 22:19:02 2024 CST
