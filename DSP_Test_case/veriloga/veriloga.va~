@@ -1,0 +1,9 @@
+// VerilogA for EE113_proj, DSP_Test_case, veriloga
+
+`include "constants.vams"
+`include "disciplines.vams"
+
+module DSP_Test_case;
+
+
+endmodule
