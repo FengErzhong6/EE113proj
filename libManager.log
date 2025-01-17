@@ -1,0 +1,19 @@
+\o Program:		@(#)$CDS: libManager version 32.10 11/11/2011 13:43 (cat91amd) $
+\o Sub version:		sub-version  s008 
+\o Arguments:		-unmapped -mpssession virtuoso3452 -mpshost Student 
+\o Working Directory:	Student:/home/student/Desktop/Workspace/EE113proj_shared
+\o Qt version: 		4.5.3
+\o changeWorkingDir("/home/student/Desktop/Workspace/EE113proj_shared") unnecessary.
+\o ddSetForcedLib("") unnecessary.
+\o Log file is "/home/student/Desktop/Workspace/EE113proj_shared/libManager.log".
+\o Opening libManager window.
+\a nrSetWindowVisibility(cdsLibManager "show")
+\o MPS service: map window
+\a nrSetCurrentWindow(cdsLibManager)
+\o Library Manager customization server connected.
+\w Warning: The directory: '/home/student/Desktop/Workspace/MRF/smic18mmrf/smic18mmrf' does not exist
+\w 	but was defined in libFile '/usr/cadence/IC615/share/cdssetup/cds.lib' for Lib 'smic18mmrf'.
+\a nrResizeWindow(cdsLibManager list(0 25 2556 1360))
+\a nrSetWindowVisibility(cdsLibManager "hide")
+\o libManager is exiting.
+\a exit(0)
